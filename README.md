@@ -3,4 +3,4 @@
 ###### Purpose:
     To create a simple Resume on web.
 
-#### Dear Students, Check out the live app [here](https://vijayalakshmimunagala-brs.github.io/goal3/).
+#### Check out the live app [here](https://vijayalakshmimunagala-brs.github.io/goal3/).
